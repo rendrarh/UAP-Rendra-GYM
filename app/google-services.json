@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600973545780",
+    "firebase_url": "https://uapam-d8b8f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uapam-d8b8f",
+    "storage_bucket": "uapam-d8b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600973545780:android:ffe0dba2b8b466f58b9561",
+        "android_client_info": {
+          "package_name": "afk.mobile.uap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600973545780-lbluaiiadmtfrarvp49a2ednfa1d2mka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "afk.mobile.uap",
+            "certificate_hash": "68acbb439caaeb096384b8624f2065c78daaa864"
+          }
+        },
+        {
+          "client_id": "600973545780-4raf320k7qi72bmc4hniqr4fa7ldhldq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkaRowW2QT9kH9FaDMhd5MDN5ekRUcI6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600973545780-4raf320k7qi72bmc4hniqr4fa7ldhldq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
